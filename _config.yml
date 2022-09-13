@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Starport🚀"
+title                    : "Leo's Starport🚀"
 title_separator          : "-"
 name                     : &name "Zuoou Li"
 description              : &description "Senior student in Beijing Institute of Technology (BIT)"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=vErB2ZAAAAAJ&hl=zh-CN&oi=ao"
-  email            :  lizoleo9344@gmail.com
+  email            : "lizoleo9344@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
