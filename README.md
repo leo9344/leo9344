@@ -22,9 +22,6 @@ Hello, I'm Zuoou Li, you can also call me Leo. <img src="https://media.giphy.com
     <image src="https://github-readme-stats.vercel.app/api?username=leo9344&show_icons=true&theme=tokyonight" width=400>
     </image>
 </b>
-<b>
-    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo9344&layout=compact&theme=tokyonight&hide=html" width=400></image>
-</b>
 
 
 <!--
