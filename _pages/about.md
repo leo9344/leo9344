@@ -56,10 +56,14 @@ Hailong Gong, Yunji Feng, Tairan Chen, Zuoou Li, Yunwei Li, Fast and Accurate: P
 
 ## Awards
 
-Excellent Student, Beijing Insitute of Technology, 2019-2020 academic year and 2020-2021 academic year
+- Excellent Student, Beijing Insitute of Technology, 2019-2020 academic year and 2020-2021 academic year
+
 
 ## Activities
 
 - Teaching Assistant, School of Computer Science, Beijing Institute of Technology, 2020.02 - 2020.06
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Bn1UACvNo1bi6hr5D_cp-BaWeEySpVhsy5lVl3xmQZo&cl=ffffff&w=a"></script>
+
+
+<a href="https://clustrmaps.com/site/1bqru"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Bn1UACvNo1bi6hr5D_cp-BaWeEySpVhsy5lVl3xmQZo&cl=ffffff" /></a>
+
