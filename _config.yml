@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Zuoou Li"
-  avatar           : "profile.png"
-  bio              : "Senior student in Beijing Institute of Technology (BIT)"
-  location         : "Beijing, China"
+  avatar           : "avatar.jpg"
+  bio              : "MSc Computing (AIML) Student @ Imperial College London"
+  location         : "London, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=vErB2ZAAAAAJ&hl=zh-CN&oi=ao"

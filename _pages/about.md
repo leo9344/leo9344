@@ -12,30 +12,40 @@ redirect_from:
 
 Hi, I'm Li Zuoou. Nice to meet you! 👋 
 
-Currently I am a senior student majoring in *Artificial Intelligence* at *Beijing Institute of Technology (BIT)* and a research assistant at *The Chinese University of Hong Kong, Shenzhen (CUHKSZ)*, supervised by Prof. [Zhizheng Wu](https://drwuz.com/).
+Currently I am an *MSc Computing (Artificial Intelligence and Machine Learning)* student at *Imperial College London*, and a research assistant at *Wangxuan Institute of Computer Technology, Peking University*, working closely with Dr. Xiaoyu Zhou.
 
-I was a research intern at Robotics Lab of *Beijing Institute of General Artificial Intelligence ([BIGAI](https://bigai.ai/))*, working closely with Dr. Boren Li and Dr. Wanlin Li. And I was a member of autonomous system group in *Beijing Institute of Technology Formula Student Driverless* ([*BITFSD*](http://www.bitfsd.com/)), which have won many championships of Formula Student Autonomous China (FSAC).
+Previously, I was a research assistant at *The Chinese University of Hong Kong, Shenzhen (CUHKSZ)*, supervised by Prof. [Zhizheng Wu](https://drwuz.com/). I was a research intern at Robotics Lab of *Beijing Institute of General Artificial Intelligence ([BIGAI](https://bigai.ai/))*, working closely with Dr. Boren Li and Dr. Wanlin Li. And I was a member of autonomous system group in *Beijing Institute of Technology Formula Student Driverless* ([*BITFSD*](http://www.bitfsd.com/)), which have won many championships of Formula Student Autonomous China (FSAC).
 
-Recently, I'm focusing on **Audio-Visual DeepFake and Detection**, If you are also interested, please feel free to contact me.
+Recently, I'm focusing on **3D Reconstruction** and **3DGS**, If you are also interested, please feel free to contact me.
 
 ## Education
+- MSc Computing (Artificial Intelligence and Machine Learning), Imperial College London, Sep. 2024 - Present
 
-- B.E. Candidate, Artificial Intelligence, School of Computer Science, Beijing Institute of Technology, 2019.09 - present
+- B.E. Candidate, Artificial Intelligence, School of Computer Science, Beijing Institute of Technology, Sep. 2019 - Jun. 2023
 
 ## Interests:
 
 - Artificial Intelligence
-- Speech Processing
-- Multimodal and Multimedia
-- Self-supervised Learning and Continual Learning
+- 3D Reconstruction
+- ML/DL Hardware Systems
 
 # Research
 
 ## Experiences
 
-Research Assistant, School of Data Science, [The Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://sds.cuhk.edu.cn/), Oct. 2022 -- present
+Research Assistant, Wangxuan Institute of Computer Technology, Peking University      
+Mar. 2024 – Present 
+- Focusing on 3D large-scale scene reconstruction and physics integrated weather synthesis based on 3DGS. 
 
-- Focusing on **Audio-Visual DeepFake Detection** 
+Research Assistant, School of Computer Science, Beijing Institute of Technology          
+Aug. 2023 - Feb. 2024
+- Concentrated on the challenge of error accumulation caused by domain shifts in long-term testing sequences 
+- Constructed a structural causal model to show the presence of a backdoor path linking feature representation and model predictions due to contextual knowledge in the current model, resulting in spurious correlations 
+- Designed and implemented a Causal Adaptation in Test-Time module to effectively block the backdoor path through causal intervention 
+
+Research Assistant, School of Data Science, [The Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://sds.cuhk.edu.cn/), Oct. 2022 - present
+
+- Focused on **Audio-Visual DeepFake Detection** 
 - Supervised by [Zhizheng Wu](https://drwuz.com/) and working closely with Zhiping Zeng and [Yanghao Zhou](https://zhouyhslp.netlify.app/).
 
 Research Intern, Robotics Lab, [Beijing Institute of General Artificial Intelligence (BIGAI)](https://bigai.ai/), Sep 2021 - June 2022 
@@ -55,8 +65,9 @@ Hailong Gong, Yunji Feng, Tairan Chen, Zuoou Li, Yunwei Li, Fast and Accurate: P
 # Accomplishments
 
 ## Awards
-
-- Excellent Student, Beijing Insitute of Technology, 2019-2020 academic year and 2020-2021 academic year
+- 2023 Excellent Undergraduate Thesis, Beijing Insitute of Technology, Jun. 2023
+- 2023 Outstanding Undergraduate Graduate, Beijing Insitute of Technology, Jun. 2023
+- Excellent Student, Beijing Insitute of Technology, 2019-2020 AY, 2020-2021 AY, 2021-2022 AY, 2022-2023 AY
 
 
 ## Activities
