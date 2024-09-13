@@ -21,7 +21,7 @@ Recently, I'm focusing on **3D Reconstruction** and **3DGS**, If you are also in
 ## Education
 - MSc Computing (Artificial Intelligence and Machine Learning), Imperial College London, Sep. 2024 - Present
 
-- B.E. Candidate, Artificial Intelligence, School of Computer Science, Beijing Institute of Technology, Sep. 2019 - Jun. 2023
+- B.E. Artificial Intelligence, School of Computer Science, Beijing Institute of Technology, Sep. 2019 - Jun. 2023
 
 ## Interests:
 
